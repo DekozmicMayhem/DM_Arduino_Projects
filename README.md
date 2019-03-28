@@ -8,7 +8,7 @@ Hello fellow coders!
   
   More to follow..........
   
-  -Plan of action
+  **Plan of action**
   
    * provide a wiki resource with code references and other useful information.
    * provide detailed, commented code that is reasonably easy to understand.
